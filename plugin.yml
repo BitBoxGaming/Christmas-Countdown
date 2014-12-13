@@ -1,0 +1,8 @@
+name: ChristmasCountdown
+main: com.gmail.bitboxgaming.christmascountdown.origin.points.MainClass
+version: 1.0
+description: Countdown to Christmas day!
+commands:
+    christmas:
+        usage: /<command>
+        description: Countdown until Christmas!
